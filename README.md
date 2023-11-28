@@ -89,8 +89,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<img src="https://github.com/125Akash/akashTube/blob/main/CropIMage.png" />
-<img src="https://github.com/125Akash/akashTube/blob/main/CroptImage2.png" />
+<img src="https://github.com/125Akash/akashTube/blob/main/CropIMage.png" width="800px"  height="500px"   />
+<img src="https://github.com/125Akash/akashTube/blob/main/CroptImage2.png" width="800px"  height="500px" />
 
 
 # Note 
