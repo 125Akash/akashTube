@@ -22,8 +22,6 @@ AkashTube is a YouTube clone created using React, Tailwind CSS, and powered by t
 
 ## Demo
 
-<imge src="https://github.com/125Akash/akashTube/blob/main/CropIMage.png" />
-<imge src="https://github.com/125Akash/akashTube/blob/main/CroptImage2.png" />
 
 
 [AkashTube Demo](url_to_live_demo)
@@ -90,6 +88,10 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 This project is licensed under the [MIT License](LICENSE).
 
 ---
+
+<imge src="https://github.com/125Akash/akashTube/blob/main/CropIMage.png" />
+<imge src="https://github.com/125Akash/akashTube/blob/main/CroptImage2.png" />
+
 
 # Note 
    if you See an Error Code Like 409 SO It means api Key is Expire or Rapid Api Key which is Free edition key Limit Is exceed to Simply Login in To Rapid Api Which Some Another account get a New Key 
