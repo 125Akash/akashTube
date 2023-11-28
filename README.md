@@ -22,8 +22,8 @@ AkashTube is a YouTube clone created using React, Tailwind CSS, and powered by t
 
 ## Demo
 
-<imge src="https://github.com/125Akash/akashTube/blob/main/CropIMage.png" width = "500px" height="500px" />
-<imge src="https://github.com/125Akash/akashTube/blob/main/CroptImage2.png" width = "500px" height="500px" />
+<imge src="https://github.com/125Akash/akashTube/blob/main/CropIMage.png" />
+<imge src="https://github.com/125Akash/akashTube/blob/main/CroptImage2.png" />
 
 
 [AkashTube Demo](url_to_live_demo)
