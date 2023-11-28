@@ -88,8 +88,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-![SceenShot](https://github.com/125Akash/akashTube/blob/main/CropIMage.png)
-
 ![SceenShot](https://github.com/125Akash/akashTube/blob/main/CroptImage2.png)
 
 # Note 
