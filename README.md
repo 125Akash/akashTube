@@ -37,7 +37,7 @@ Provide a link to a live demo of your project.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/akash-tube.git
+git clone https://github.com/125Akash/akashTube.git
 ```
 
 2. Navigate to the project directory:
